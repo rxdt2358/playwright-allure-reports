@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","2610","Signup with empty email","","2026-05-13","passed","2026-05-13","","01_signUp.spec.ts","",""
+"","2681","Signup with empty email","","2026-05-14","passed","2026-05-14","","01_signUp.spec.ts","",""
